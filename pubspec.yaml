@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   image: ^3.0.0
-  image_picker: ^0.8.0
+  image_picker: ">=0.8.0 <2.0.0"
   melos: ^3.0.0
 
 dev_dependencies:
